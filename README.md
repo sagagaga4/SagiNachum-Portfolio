@@ -1,4 +1,4 @@
-# Link for the portfolio site! :
+# Link for the portfolio site:
 
 https://saginachum-eb541.web.app/
 
