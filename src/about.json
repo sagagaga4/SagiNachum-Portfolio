@@ -1,0 +1,27 @@
+    [{
+        "img": "../images/netflix.jpg",
+        "alt": "Netflix-Clone",
+        "name": "Using React.js (Firebase,Axios,TMDB)",
+        "botton":"GitHub Link"
+    },
+    {
+        "img": "../images/spotify.jpg",
+        "alt": "Spotify-Clone",
+        "name": "Using React.js (Spotify API)",
+        "botton":"GitHub Link"
+    },
+    {
+        "img": "../images/like.jpg",
+        "alt": "Instagram-like-bot",
+        "name": "Using Python (Selenium,bs4)",
+        "botton":"GitHub Link"
+    },{
+        "img": "../images/price.jpg",
+        "alt": "Bitcoin-Price-Scraping",
+        "name": "Using Python (bs4,requests)",
+        "botton":"GitHub Link"
+    }
+]
+
+
+

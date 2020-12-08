@@ -1,0 +1,26 @@
+.navi {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 20px;
+  height: 50px;
+  z-index: 1;
+
+  /* Animations */
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+
+.navi__black {
+  background-color: rgba(78, 78, 78, 0.322);
+}
+.nav__logo {
+  color: lightgoldenrodyellow;
+  position: fixed;
+  left: 5px;
+  width: 80px;
+  top: -8px;
+  font-size: 45px;
+  object-fit: contain;
+  background: transparent;
+}

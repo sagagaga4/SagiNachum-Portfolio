@@ -1,0 +1,41 @@
+.footer {
+  width: 100%;
+  background-color: rgba(41, 41, 41, 0.705);
+  font-size: medium;
+}
+.footer-info {
+  top: 30px;
+  margin-top: 10px;
+  padding-top: 10px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: "Arial Narrow", Arial, sans-serif;
+  color: rgb(218, 205, 205);
+}
+.footermail {
+  padding-top: 30px;
+  color: rgb(255, 255, 255);
+  flex-wrap: wrap;
+  font-family: "Righteous";
+  top: 10px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  font-size: medium;
+}
+.footernumb {
+  color: rgb(230, 230, 230);
+  flex-wrap: wrap;
+  font-family: "Righteous";
+  top: 10px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  font-size: medium;
+}
